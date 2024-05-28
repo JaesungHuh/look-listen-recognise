@@ -1,0 +1,11 @@
+Elaine,Julia Louis-Dreyfus
+George,Jason Alexander
+Jerry,Jerry Seinfeld
+Kid,Adam Wylie
+Kramer,Michael Richards
+Man #1,Joe Farago
+Man #2,Gregory T.Daniel
+Man #3,Ron Evans
+Michele,Cynthia Ettinger
+Mother,Carlyle King
+Security Guard,David Dunard

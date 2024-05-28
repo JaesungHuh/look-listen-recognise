@@ -1,0 +1,13 @@
+Chiropractor,Roger Nolan
+Doris,Annie Korzen
+Elaine,Julia Louis-Dreyfus
+Evelyn,Ann Morgan Guilbert
+Helen,Liz Sheridan
+Jack,Sandy Baron
+Jerry,Jerry Seinfeld
+Leo,Len Lesser
+Man In The Crowd,"unknown"
+Woman In The Crowd,"unknown"
+Morty,Barney Martin
+Photographer,Tucker Smallwood
+Stella,Magda Harout
