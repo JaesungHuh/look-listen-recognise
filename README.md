@@ -18,8 +18,9 @@ Bruno Korbar*, Jaesung Huh*, Andrew Zisserman
 ### RTTM
 - To evaluate on speaker diarization performance, we also convert the csv files to [rttm](https://github.com/nryant/dscore?tab=readme-ov-file#rttm) format.
 
-### Audios
-- We also provide the audio files we used for our experiments. Please visit [this](https://www.robots.ox.ac.uk/~vgg/research/look-listen-recognise/data/audio.zip) link. You may have to align with your own video files with these.
+### Audio and video files
+- We also provide the audio and video files. Please visit [this](https://www.robots.ox.ac.uk/~vgg/research/look-listen-recognise/data/audio.zip) link for audios and [this](https://www.robots.ox.ac.uk/~vgg/research/look-listen-recognise/data/video.zip) for videos.
+
 
 ## Reference
 ```
