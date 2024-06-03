@@ -3,7 +3,7 @@ Carla,Judy Reyes
 Crispin,George Miserlis
 Dr. Cox,John C. McGinley
 Dr. Kelso,Ken Jenkins
-ER doctor,Marcus Ashley
+ER Doctor,Marcus Ashley
 Elliot,Sarah Chalke
 J.D.,Zach Braff
 Janitor,Neil Flynn
