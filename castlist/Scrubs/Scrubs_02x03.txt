@@ -7,8 +7,8 @@ Elliot,Sarah Chalke
 J.D.,Zach Braff
 Janitor,Neil Flynn
 Male Nurse,"unknown"
-Man doctor #1,Jon Braver
-Man doctor #2,"unknown"
+Man Doctor #1,Jon Braver
+Man Doctor #2,"unknown"
 Mike,Michael McDonald
 Mrs. Kellerman,Jill Basey
 Mrs. Warner,Maree Cheatham
