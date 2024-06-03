@@ -12,7 +12,7 @@ Noelle,Linda Tran
 Nurse Roberts,Aloma Wright
 Orderly,Derek Miller
 Singer,"unknown"
-Singer man,"unknown"
+Singer Man,"unknown"
 Ted,Sam Lloyd
 Todd,Robert Maschio
 Turk,Donald Faison
