@@ -20,5 +20,5 @@ Singer #2,"unknown"
 Singer #3,"unknown"
 Todd,Robert Maschio
 Turk,Donald Faison
-Guy with perm,Douglas Sutherland
+Guy With Perm,Douglas Sutherland
 Woman doctor #1,"unknown"
