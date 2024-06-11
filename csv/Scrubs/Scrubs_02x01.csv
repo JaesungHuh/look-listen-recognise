@@ -1,7 +1,7 @@
 3.21,4.99,J.D.,Yesterday seemed like it would be a good day.
 5.68,6.64,J.D.,Then it happened.
 7.57,8.41,Jordan,"Hey, everyone."
-8.73,9.71,Dr. Cox,"Brace yourself there, newbie."
+8.73,9.71,Dr.Cox,"Brace yourself there, newbie."
 10.53,12.76,Jordan,"Carla, my ex-husband is in love with you."
 13.44,15.37,Jordan,"It's true. Ask your boyfriend, he knows."
 15.91,17.28,Jordan,He and Perry talk about it all the time.
@@ -91,41 +91,41 @@
 297.25,299.64,J.D.,"For instance, my spare pair of scrubs doesn't match,"
 299.90,302.07,J.D.,but I put my underwear in the microwave to dry them off
 302.25,304.76,J.D.,and they feel good.
-305.58,306.63,Nurse Roberts,What are you smiling at?
+305.58,306.63,NurseRoberts,What are you smiling at?
 307.25,308.29,J.D.,"Could I have Mr. Buckley's chart, please?"
-308.47,309.01,Nurse Roberts,No problem.
-309.24,310.34,Nurse Roberts,"I'll keep it right down there,"
-310.82,312.03,Nurse Roberts,and to get it yourself out.
-313.69,316.18,Dr. Cox,"You know, Bob, I've been thinking about all the times"
-316.26,318.01,Dr. Cox,"that you've manipulated me and toyed with me,"
-318.23,321.44,Dr. Cox,"and well, I can't help but recall that children's fable"
-321.50,323.18,Dr. Cox,about the race between the tortoise
-323.28,324.67,Dr. Cox,and the pain in the ass chief of medicine
-324.69,325.65,Dr. Cox,that everybody hates.
-326.23,329.28,Dr. Cox,"You see, Bob, the painting-ass chief of medicine that everybody hates"
-329.40,332.15,Dr. Cox,"kept running out in front of the tortoise and taunting him,"
-332.25,333.09,Dr. Cox,but right at the end...
-333.82,336.18,Dr. Cox,"Oh, gosh, I'm sure you remember what happened, Bob."
-336.92,340.39,Dr. Cox,"The tortoise bit clean through the chief of medicine's calf muscle,"
-340.57,341.60,Dr. Cox,"dragged him to the ground,"
-341.68,344.19,Dr. Cox,where he and all the other turtles devoured him alive
-344.31,345.79,Dr. Cox,right there on the racetrack.
-346.05,346.72,Dr. Cox,"It's a ,"
-347.37,349.54,Dr. Cox,"disturbing children's book, Bob, I know"
-349.72,352.13,Dr. Cox,but it's one that stuck with me nonetheless.
-354.13,356.32,Dr. Kelso,"Buzzy, buzz, buzz."
-357.26,357.99,Dr. Kelso,My big pardon?
-358.71,361.25,Dr. Kelso,"Oh, that's the sound of all the bees in your bonnet."
-361.81,364.32,Dr. Kelso,"And Perry, even though I could give a rat's ass,"
-364.42,365.73,Dr. Kelso,I still think it's a pretty sound.
+308.47,309.01,NurseRoberts,No problem.
+309.24,310.34,NurseRoberts,"I'll keep it right down there,"
+310.82,312.03,NurseRoberts,and to get it yourself out.
+313.69,316.18,Dr.Cox,"You know, Bob, I've been thinking about all the times"
+316.26,318.01,Dr.Cox,"that you've manipulated me and toyed with me,"
+318.23,321.44,Dr.Cox,"and well, I can't help but recall that children's fable"
+321.50,323.18,Dr.Cox,about the race between the tortoise
+323.28,324.67,Dr.Cox,and the pain in the ass chief of medicine
+324.69,325.65,Dr.Cox,that everybody hates.
+326.23,329.28,Dr.Cox,"You see, Bob, the painting-ass chief of medicine that everybody hates"
+329.40,332.15,Dr.Cox,"kept running out in front of the tortoise and taunting him,"
+332.25,333.09,Dr.Cox,but right at the end...
+333.82,336.18,Dr.Cox,"Oh, gosh, I'm sure you remember what happened, Bob."
+336.92,340.39,Dr.Cox,"The tortoise bit clean through the chief of medicine's calf muscle,"
+340.57,341.60,Dr.Cox,"dragged him to the ground,"
+341.68,344.19,Dr.Cox,where he and all the other turtles devoured him alive
+344.31,345.79,Dr.Cox,right there on the racetrack.
+346.05,346.72,Dr.Cox,"It's a ,"
+347.37,349.54,Dr.Cox,"disturbing children's book, Bob, I know"
+349.72,352.13,Dr.Cox,but it's one that stuck with me nonetheless.
+354.13,356.32,Dr.Kelso,"Buzzy, buzz, buzz."
+357.26,357.99,Dr.Kelso,My big pardon?
+358.71,361.25,Dr.Kelso,"Oh, that's the sound of all the bees in your bonnet."
+361.81,364.32,Dr.Kelso,"And Perry, even though I could give a rat's ass,"
+364.42,365.73,Dr.Kelso,I still think it's a pretty sound.
 370.51,372.51,J.D.,"And just like that, it was my turn to face the music."
 373.61,374.15,J.D.,Steady now.
 375.80,376.30,J.D.,Be brave.
 377.36,377.76,J.D.,Don't cry.
-379.53,380.55,Dr. Cox,Good morning.
+379.53,380.55,Dr.Cox,Good morning.
 380.78,381.47,J.D.,What the hell?
-382.28,383.04,Dr. Kelso,Dr. Dorian.
-383.93,384.65,Dr. Kelso,"Here you go, wiz-kid."
+382.28,383.04,Dr.Kelso,Dr. Dorian.
+383.93,384.65,Dr.Kelso,"Here you go, wiz-kid."
 385.09,386.14,J.D.,"Oh, is that my new nickname?"
 386.60,387.59,J.D.,Because I actually thought people
 387.59,388.75,J.D.,were going to start calling me that in high school
@@ -137,27 +137,27 @@
 399.36,400.71,J.D.,"No, well, anyway, kids can be mean"
 400.75,402.25,J.D.,and everyone just started calling me Dorothy.
 403.88,404.54,J.D.,High school was hard.
-406.56,407.53,Dr. Kelso,"Oh, I'm sorry, Sport."
-407.75,408.97,Dr. Kelso,I was thinking about soup.
-409.73,412.60,Dr. Kelso,"Now, Mr. Zerbo was initially admitted with a high fever"
-412.66,413.76,Dr. Kelso,"and suspected meningitis,"
-414.05,416.19,Dr. Kelso,but both the head CT and the lumbar puncture
-416.23,416.98,Dr. Kelso,came back negative.
+406.56,407.53,Dr.Kelso,"Oh, I'm sorry, Sport."
+407.75,408.97,Dr.Kelso,I was thinking about soup.
+409.73,412.60,Dr.Kelso,"Now, Mr. Zerbo was initially admitted with a high fever"
+412.66,413.76,Dr.Kelso,"and suspected meningitis,"
+414.05,416.19,Dr.Kelso,but both the head CT and the lumbar puncture
+416.23,416.98,Dr.Kelso,came back negative.
 417.48,419.07,J.D.,"Yeah, sir, I'd have a full patient load."
 419.15,420.39,J.D.,I don't understand how you could just drop this guy
 420.39,422.06,J.D.,in my lap and expect to make him a top priority.
-422.26,424.47,Dr. Kelso,You want me to say ta-da so it seems more like a trick?
-424.95,427.51,Dr. Kelso,"Mr. Zerbo back there is a major hospital benefactor,"
-427.60,429.55,Dr. Kelso,"and by golly, you know it's a lot harder"
-429.57,431.29,Dr. Kelso,to write a big fat check if you're dead.
+422.26,424.47,Dr.Kelso,You want me to say ta-da so it seems more like a trick?
+424.95,427.51,Dr.Kelso,"Mr. Zerbo back there is a major hospital benefactor,"
+427.60,429.55,Dr.Kelso,"and by golly, you know it's a lot harder"
+429.57,431.29,Dr.Kelso,to write a big fat check if you're dead.
 431.73,434.50,J.D.,"Neurology, rheumatology, hematology."
 434.56,436.53,J.D.,This guy's been turfed to every service in the hospital.
 436.53,437.33,J.D.,No one knows what's wrong with him.
 437.34,438.07,J.D.,What do you want me to do?
-438.07,439.21,Dr. Kelso,I hope it's navy bean today.
+438.07,439.21,Dr.Kelso,I hope it's navy bean today.
 439.86,440.29,J.D.,Dr. Kelso.
-440.57,445.44,Dr. Kelso,"Well, gee, sport, I would say you should stop whining, find out what's wrong with him and"
-445.64,448.55,Dr. Kelso,Or you can be damn sure I'm going to give you something to whine about.
+440.57,445.44,Dr.Kelso,"Well, gee, sport, I would say you should stop whining, find out what's wrong with him and"
+445.64,448.55,Dr.Kelso,Or you can be damn sure I'm going to give you something to whine about.
 450.53,451.27,J.D.,"Okay, fine, you know."
 451.54,453.00,J.D.,"After all, I'm the whiz kid."
 455.91,456.58,Janitor,You're now.
@@ -166,9 +166,9 @@
 463.38,464.34,Todd,to wonder anymore.
 464.95,467.44,Todd,"Yes, yes, no, yes, no."
 467.44,469.36,Todd,"And yes, if I've been drinking."
-469.79,470.79,Nurse Roberts,"Come here, wonderbread."
+469.79,470.79,NurseRoberts,"Come here, wonderbread."
 471.11,471.85,Todd,What's up doll?
-472.76,475.13,Nurse Roberts,"If you ever get this close again, I will end you."
+472.76,475.13,NurseRoberts,"If you ever get this close again, I will end you."
 475.48,477.75,Todd,"I'm changing you to a ""yes"" because you're feisty!"
 479.62,480.68,Turk,Carl I'm sorry.
 480.82,482.18,Carla,For him? Not your fault.
@@ -210,47 +210,47 @@
 576.85,579.15,Elliot,"Um, about a hundred and fifteen pounds."
 581.20,582.54,Elliot,"Phen-fen kills people, mom!"
 584.60,587.05,Elliot,"Because I'm a doctor, that's how I know."
-589.37,590.07,Dr. Cox,You look pretty today.
+589.37,590.07,Dr.Cox,You look pretty today.
 590.15,591.03,Carla,Don't even start with me.
-591.13,591.72,Dr. Cox,You look horrible.
+591.13,591.72,Dr.Cox,You look horrible.
 592.52,593.48,Carla,I look fantastic.
 593.60,595.07,Carla,"And what you're doing, that's starting."
 595.17,596.91,Carla,"I'm pretty sure I said not to start, Laverne."
-597.31,598.01,Nurse Roberts,That's what she said.
+597.31,598.01,NurseRoberts,That's what she said.
 598.18,599.74,Carla,I say 'no empieces' okay?
-602.69,604.37,Dr. Cox,"It's ""don't start"" in Spanish."
-605.03,605.30,Nurse Roberts,Bueno.
+602.69,604.37,Dr.Cox,"It's ""don't start"" in Spanish."
+605.03,605.30,NurseRoberts,Bueno.
 605.66,607.51,J.D.,"I had planned to avoid Dr. Cox all day,"
 607.83,609.41,J.D.,"but unfortunately, I needed his help."
 609.84,611.72,J.D.,"Dr. Cox, I have this patient, Mr. Zerbo."
 611.86,612.30,J.D.,I can't quite...
 613.01,613.45,J.D.,Who knows?
 613.65,615.89,J.D.,Maybe he just decided to let the whole ex-wife thing go.
-616.10,617.16,Dr. Cox,Autoimmune serologies?
+616.10,617.16,Dr.Cox,Autoimmune serologies?
 617.52,617.92,J.D.,All negative.
 618.48,621.15,J.D.,"Then again, maybe he's just letting me stew for a while."
 621.33,622.08,J.D.,Bone marrow biopsy.
 622.88,623.16,J.D.,Negative.
 623.44,625.59,J.D.,What kind of man tortures people like this?
-625.97,627.05,Dr. Cox,Afraid you got yourself a toughie.
+625.97,627.05,Dr.Cox,Afraid you got yourself a toughie.
 628.51,630.16,J.D.,"Okay, fine. I'm sorry I slept with your ex-wife."
-637.44,639.17,Nurse Roberts,I think I'll sit back down.
+637.44,639.17,NurseRoberts,I think I'll sit back down.
 640.53,641.52,J.D.,It was an accident.
-641.72,642.33,Dr. Cox,Look.
-642.91,647.55,Dr. Cox,"First of all, it's not like you tripped and fell into her, then out of her, and then into her again."
-648.63,651.40,Dr. Cox,"And second of all, you're smart enough to know that I don't want to talk about this."
-651.52,655.05,Dr. Cox,I don't want to know where you did it. I don't even want to know how it was.
+641.72,642.33,Dr.Cox,Look.
+642.91,647.55,Dr.Cox,"First of all, it's not like you tripped and fell into her, then out of her, and then into her again."
+648.63,651.40,Dr.Cox,"And second of all, you're smart enough to know that I don't want to talk about this."
+651.52,655.05,Dr.Cox,I don't want to know where you did it. I don't even want to know how it was.
 655.63,656.20,J.D.,A little scary.
 656.44,657.20,J.D.,"Sorry, jitters."
 657.88,659.09,J.D.,And here come the fireworks.
-660.25,660.53,Dr. Cox,Lookit.
-662.38,664.34,Dr. Cox,"I know you didn't have any idea who she was,"
-664.40,666.57,Dr. Cox,and I understand why you were too nervous to tell me.
-666.69,667.89,Dr. Cox,So what do you say we leave it at that?
-668.57,670.26,Dr. Cox,I forgive you. You are forgiven.
-670.88,671.10,Dr. Cox,Okay?
+660.25,660.53,Dr.Cox,Lookit.
+662.38,664.34,Dr.Cox,"I know you didn't have any idea who she was,"
+664.40,666.57,Dr.Cox,and I understand why you were too nervous to tell me.
+666.69,667.89,Dr.Cox,So what do you say we leave it at that?
+668.57,670.26,Dr.Cox,I forgive you. You are forgiven.
+670.88,671.10,Dr.Cox,Okay?
 672.87,673.25,J.D.,Cool.
-674.55,674.99,Nurse Roberts,Damn.
+674.55,674.99,NurseRoberts,Damn.
 677.01,678.47,J.D.,Hospitals aren't as big as you think.
 678.99,680.62,J.D.,"Eventually, you run into everyone."
 681.68,682.49,J.D.,"Hey, Elliot."
@@ -288,20 +288,20 @@
 768.17,768.49,J.D.,Uh-uh.
 770.00,770.74,Turk,I don't get that guy.
 772.61,773.77,J.D.,And that's when I realized something.
-776.16,777.57,Dr. Cox,"Hey, where you been? I paged you twice."
+776.16,777.57,Dr.Cox,"Hey, where you been? I paged you twice."
 778.47,779.92,J.D.,I must have misplaced my pager.
 780.42,782.63,J.D.,The reason Dr. Cox wasn't yelling at me like he used to.
-783.07,785.36,Dr. Cox,Huh. Probably ought to try to find that.
+783.07,785.36,Dr.Cox,Huh. Probably ought to try to find that.
 787.87,789.01,J.D.,He didn't care about me anymore.
 792.72,794.14,Janitor,"Yep, that's a leaky O-ring."
 794.90,798.04,Janitor,"I can fix her, but I've got the parts in stock."
 798.66,799.97,Janitor,We need an O-ring down there.
 800.91,803.18,Janitor,Ha-ha-ha-ha! That's entertainment!
 810.25,812.98,J.D.,"Standing there, I couldn't help thinking about the way things used to be."
-813.92,815.10,Dr. Cox,"Don't forget, Felicia!"
-815.34,815.88,Dr. Cox,If you...
-816.08,818.86,Dr. Cox,If you want to call me a bitch!
-821.95,824.35,Dr. Kelso,"Son, you know you really ought to buy that thing dinner first."
+813.92,815.10,Dr.Cox,"Don't forget, Felicia!"
+815.34,815.88,Dr.Cox,If you...
+816.08,818.86,Dr.Cox,If you want to call me a bitch!
+821.95,824.35,Dr.Kelso,"Son, you know you really ought to buy that thing dinner first."
 829.21,831.55,J.D.,And it wasn't just me and Dr. Cox who weren't getting along.
 833.36,835.64,J.D.,Everyone was just drifting through the halls.
 835.88,838.03,J.D.,Each one of us acting like the others didn't exist.
@@ -332,7 +332,7 @@
 907.35,908.63,J.D.,Ha! Too slow!
 909.27,911.19,J.D.,"What now, Mr. Smart guy?"
 914.21,915.03,J.D.,That is so not funny.
-917.50,918.14,Dr. Kelso,Wet butt.
+917.50,918.14,Dr.Kelso,Wet butt.
 919.85,920.19,Janitor,It gets better.
 921.17,921.97,J.D.,Is it starting to burn?
 922.36,923.14,Janitor,I would think so.
@@ -342,65 +342,65 @@
 931.88,933.03,Carla,"Bambi, you paged us here."
 933.15,935.01,J.D.,"Be that as it may, I think there are some simple solutions."
 935.29,936.58,J.D.,"Dr. Cox, you're angry with me."
-936.84,937.12,Dr. Cox,"No, I'm not."
+936.84,937.12,Dr.Cox,"No, I'm not."
 937.24,938.71,J.D.,"And you won't admit this, but you're in love with Carla."
 938.79,939.37,Carla,"No, he's not."
-939.65,940.49,Dr. Cox,"Actually, I am."
+939.65,940.49,Dr.Cox,"Actually, I am."
 940.67,941.46,Carla,You're starting again.
 941.48,943.67,J.D.,"And Carla, you're mad that Turk didn't trust you enough to tell you."
 944.03,945.21,Turk,"See, trust, woman, trust."
 945.29,946.66,J.D.,"Whatever, the point is that Turk is sorry."
 946.66,947.50,Turk,Not anymore.
 947.50,949.05,Carla,I can't believe you thought he was a threat.
-949.17,949.51,Dr. Cox,I'm a threat.
+949.17,949.51,Dr.Cox,I'm a threat.
 949.77,950.70,Carla,You're not in love with me.
 950.76,951.58,Carla,You idealize me.
 951.58,952.97,J.D.,Can we just try and stay focused
 953.07,954.49,Turk,You mad because I'm scared of losing you?
 954.62,956.26,Carla,"Yes, because we're stronger than that."
-956.52,957.48,Dr. Cox,Apparently not.
+956.52,957.48,Dr.Cox,Apparently not.
 959.05,960.83,Turk,"You should be glad I never took our relationship for granted,"
 960.85,961.41,Turk,you silly woman.
 961.54,962.79,J.D.,If we could just refrain from name-calling.
-962.89,963.83,Dr. Cox,Oprah's right.
+962.89,963.83,Dr.Cox,Oprah's right.
 964.29,964.87,Turk,Lay off of them.
 965.05,965.90,Carla,You're just pissed because you're
 965.92,966.72,Carla,still in love with your ex.
-966.82,967.19,Dr. Cox,OK.
-967.55,967.95,Dr. Cox,That's it.
-969.03,970.48,Dr. Cox,"Now, I have killed for so much less than that,"
-970.50,972.04,Dr. Cox,and I'll damn sure do it again unless you all
-972.10,973.02,Dr. Cox,shut the hell up right now.
-973.79,974.43,Dr. Cox,I mean now!
+966.82,967.19,Dr.Cox,OK.
+967.55,967.95,Dr.Cox,That's it.
+969.03,970.48,Dr.Cox,"Now, I have killed for so much less than that,"
+970.50,972.04,Dr.Cox,and I'll damn sure do it again unless you all
+972.10,973.02,Dr.Cox,shut the hell up right now.
+973.79,974.43,Dr.Cox,I mean now!
 980.55,981.61,J.D.,Aren't you glad we did this?
 982.05,983.46,Turk,I'm going out for Mexican food tonight.
 983.96,985.51,Turk,"And I'll see you in bed, my friend."
 989.59,990.17,J.D.,"Oh my god, Rounds."
 991.85,994.46,J.D.,Rounds started five minutes ago and I totally forgot about Mr. Zerbo.
 994.60,996.41,J.D.,"Oh my god, oh my god, oh my god."
-999.63,1001.41,Nurse Roberts,Are you planning on making this worth my while?
+999.63,1001.41,NurseRoberts,Are you planning on making this worth my while?
 1002.97,1003.50,J.D.,Ow!
-1005.64,1011.38,Dr. Kelso,"Dr. Dorian, how about you step up to the mic and tell the entire gang how you ended up treating Mr. Zerbo?"
+1005.64,1011.38,Dr.Kelso,"Dr. Dorian, how about you step up to the mic and tell the entire gang how you ended up treating Mr. Zerbo?"
 1011.94,1013.17,J.D.,"Think Wizkid, think!"
 1015.21,1015.83,J.D.,"Ah, the hell with it."
 1017.20,1017.90,J.D.,"Sir, I did nothing."
-1022.01,1023.97,Car Driver,Is this because of the same kid as before?
-1027.03,1028.46,Dr. Kelso,You did nothing?
+1022.01,1023.97,CarDriver,Is this because of the same kid as before?
+1027.03,1028.46,Dr.Kelso,You did nothing?
 1028.87,1029.88,J.D.,Nothing at all.
-1035.13,1036.17,Dr. Kelso,"Great job, sport."
+1035.13,1036.17,Dr.Kelso,"Great job, sport."
 1036.75,1036.91,J.D.,Huh?
-1037.73,1040.00,Dr. Kelso,"Whenever a patient gets bounced from ward to ward,"
-1040.04,1042.31,Dr. Kelso,there's always a chance a high fever could be sustained
-1042.37,1045.64,Dr. Kelso,or even caused by the constant stream of different antibiotics.
-1045.90,1046.80,Dr. Kelso,It's called drug fever.
-1047.67,1049.41,Dr. Kelso,And it's a good catch by Dr. Dorian.
-1050.83,1052.60,Dr. Kelso,"Next patient. Mush, people. Mush!"
-1052.80,1054.81,Dr. Kelso,Hah! Hah! Hah!
-1057.31,1057.91,Mr. Zerbo,"Thank you, Doctor."
+1037.73,1040.00,Dr.Kelso,"Whenever a patient gets bounced from ward to ward,"
+1040.04,1042.31,Dr.Kelso,there's always a chance a high fever could be sustained
+1042.37,1045.64,Dr.Kelso,or even caused by the constant stream of different antibiotics.
+1045.90,1046.80,Dr.Kelso,It's called drug fever.
+1047.67,1049.41,Dr.Kelso,And it's a good catch by Dr. Dorian.
+1050.83,1052.60,Dr.Kelso,"Next patient. Mush, people. Mush!"
+1052.80,1054.81,Dr.Kelso,Hah! Hah! Hah!
+1057.31,1057.91,Mr.Zerbo,"Thank you, Doctor."
 1059.65,1061.32,J.D.,"Oh, no problem. It's funny."
 1061.96,1063.57,J.D.,"I guess sometimes when you do nothing at all,"
 1063.89,1066.30,J.D.,things just have a way of fixing themselves.
-1071.36,1071.99,Dr. Cox,Hey.
+1071.36,1071.99,Dr.Cox,Hey.
 1072.92,1074.41,Troubadour,The look between the sheets
 1076.72,1078.53,Troubadour,Only brings exasperation
 1079.80,1081.61,Troubadour,"It's time to walk the streets,"
@@ -413,22 +413,22 @@
 1107.74,1112.45,Troubadour,Night after night my heartbeat shows the fear
 1113.41,1118.38,Troubadour,Ghosts appear and fade away
 1121.69,1123.47,Troubadour,Come back another day
-1131.08,1131.88,Dr. Cox,That'll do it.
+1131.08,1131.88,Dr.Cox,That'll do it.
 1133.37,1134.13,Troubadour,I have other songs.
-1134.38,1134.96,Dr. Cox,"Yeah, you do."
-1137.17,1139.53,Dr. Cox,"Do you know how I know that this is yours, Farrah?"
-1140.26,1143.08,Dr. Cox,"When I paged you earlier, someone found it next to a can of Fresca"
-1143.20,1145.49,Dr. Cox,and a dog-eared copy of Teen People magazine.
-1145.73,1149.22,Dr. Cox,"Anyway, long story short, the whole incident gave me a bang-up idea"
-1149.28,1151.15,Dr. Cox,"because, you see, I've got tomorrow off,"
-1151.51,1153.74,Dr. Cox,so I'm gonna be on my couch sipping on some scotch
-1153.82,1155.41,Dr. Cox,"and paging you every 20 seconds,"
-1155.45,1157.18,Dr. Cox,"and if you don't answer every damn last one of them,"
-1157.20,1158.87,Dr. Cox,I'm gonna shove this thing so far down your throat
-1158.87,1160.75,Dr. Cox,it's gonna make you take a tinkle every time it goes off.
-1163.02,1164.13,Dr. Cox,"Big fun, right?"
-1164.94,1166.02,Dr. Cox,You're gonna need this.
-1166.43,1169.38,Dr. Cox,"Oh, oh, let it come, let it, oh, let it come."
-1169.48,1170.58,Dr. Cox,Whoa-ho-ho-ho-ho.
+1134.38,1134.96,Dr.Cox,"Yeah, you do."
+1137.17,1139.53,Dr.Cox,"Do you know how I know that this is yours, Farrah?"
+1140.26,1143.08,Dr.Cox,"When I paged you earlier, someone found it next to a can of Fresca"
+1143.20,1145.49,Dr.Cox,and a dog-eared copy of Teen People magazine.
+1145.73,1149.22,Dr.Cox,"Anyway, long story short, the whole incident gave me a bang-up idea"
+1149.28,1151.15,Dr.Cox,"because, you see, I've got tomorrow off,"
+1151.51,1153.74,Dr.Cox,so I'm gonna be on my couch sipping on some scotch
+1153.82,1155.41,Dr.Cox,"and paging you every 20 seconds,"
+1155.45,1157.18,Dr.Cox,"and if you don't answer every damn last one of them,"
+1157.20,1158.87,Dr.Cox,I'm gonna shove this thing so far down your throat
+1158.87,1160.75,Dr.Cox,it's gonna make you take a tinkle every time it goes off.
+1163.02,1164.13,Dr.Cox,"Big fun, right?"
+1164.94,1166.02,Dr.Cox,You're gonna need this.
+1166.43,1169.38,Dr.Cox,"Oh, oh, let it come, let it, oh, let it come."
+1169.48,1170.58,Dr.Cox,Whoa-ho-ho-ho-ho.
 1173.21,1174.87,J.D.,"Ah, it's good to be home."
 1176.76,1177.96,J.D.,"Um, sort of."

@@ -1,7 +1,7 @@
-Attendant #1,Marvin Wright-Bey
-Attendant #2,Kelly Wellman
+Attendant#1,Marvin Wright-Bey
+Attendant#2,Kelly Wellman
 Elaine,Julia Louis-Dreyfus
-Ellen,"unknown"
+Ellen,unknown
 Gavin,Joseph Maher
 George,Jason Alexander
 Jerry,Jerry Seinfeld

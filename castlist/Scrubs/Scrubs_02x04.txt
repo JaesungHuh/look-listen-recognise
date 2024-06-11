@@ -1,15 +1,15 @@
 Bonnie,Lela Lee
 Carla,Judy Reyes
-Dr. Cox,John C. McGinley
-Dr. Kelso,Ken Jenkins
-Dr. Wen,Charles Rahi Chun
+Dr.Cox,John C. McGinley
+Dr.Kelso,Ken Jenkins
+Dr.Wen,Charles Rahi Chun
 Elliot,Sarah Chalke
 J.D.,Zach Braff
 Janitor,Neil Flynn
 Lauren,Lindsey Stoddart
-Mr. Hogan,Brian Powell
-Nurse Roberts,Aloma Wright
-Singer,"unknown"
+Mr.Hogan,Brian Powell
+NurseRoberts,Aloma Wright
+Singer,unknown
 Todd,Robert Maschio
 Troy,Joe Rose
 Turk,Donald Faison
