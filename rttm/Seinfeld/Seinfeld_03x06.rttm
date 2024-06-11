@@ -208,9 +208,9 @@ SPEAKER Seinfeld_03x06 1 438.61 2.91 <NA> <NA> Elaine <NA> <NA>
 SPEAKER Seinfeld_03x06 1 442.08 1.47 <NA> <NA> Elaine <NA> <NA>
 SPEAKER Seinfeld_03x06 1 443.57 2.00 <NA> <NA> Elaine <NA> <NA>
 SPEAKER Seinfeld_03x06 1 445.72 1.12 <NA> <NA> Elaine <NA> <NA>
-SPEAKER Seinfeld_03x06 1 447.33 0.18 <NA> <NA> Man #1 <NA> <NA>
+SPEAKER Seinfeld_03x06 1 447.33 0.18 <NA> <NA> Man#1 <NA> <NA>
 SPEAKER Seinfeld_03x06 1 449.17 0.84 <NA> <NA> Elaine <NA> <NA>
-SPEAKER Seinfeld_03x06 1 450.69 0.41 <NA> <NA> Man #1 <NA> <NA>
+SPEAKER Seinfeld_03x06 1 450.69 0.41 <NA> <NA> Man#1 <NA> <NA>
 SPEAKER Seinfeld_03x06 1 452.34 1.13 <NA> <NA> Elaine <NA> <NA>
 SPEAKER Seinfeld_03x06 1 458.64 4.30 <NA> <NA> Elaine <NA> <NA>
 SPEAKER Seinfeld_03x06 1 464.47 1.24 <NA> <NA> Elaine <NA> <NA>
@@ -242,9 +242,9 @@ SPEAKER Seinfeld_03x06 1 517.89 1.27 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 519.16 0.84 <NA> <NA> Kramer <NA> <NA>
 SPEAKER Seinfeld_03x06 1 522.75 0.62 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 526.78 0.90 <NA> <NA> Kramer <NA> <NA>
-SPEAKER Seinfeld_03x06 1 537.97 0.64 <NA> <NA> Security Guard <NA> <NA>
+SPEAKER Seinfeld_03x06 1 537.97 0.64 <NA> <NA> SecurityGuard <NA> <NA>
 SPEAKER Seinfeld_03x06 1 538.79 0.18 <NA> <NA> Jerry <NA> <NA>
-SPEAKER Seinfeld_03x06 1 539.27 0.28 <NA> <NA> Security Guard <NA> <NA>
+SPEAKER Seinfeld_03x06 1 539.27 0.28 <NA> <NA> SecurityGuard <NA> <NA>
 SPEAKER Seinfeld_03x06 1 540.71 0.64 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 547.42 3.11 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 550.86 1.84 <NA> <NA> Jerry <NA> <NA>
@@ -256,13 +256,13 @@ SPEAKER Seinfeld_03x06 1 563.64 1.49 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 565.25 3.05 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 569.14 0.36 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 570.29 1.14 <NA> <NA> Jerry <NA> <NA>
-SPEAKER Seinfeld_03x06 1 571.83 0.74 <NA> <NA> Security Guard <NA> <NA>
+SPEAKER Seinfeld_03x06 1 571.83 0.74 <NA> <NA> SecurityGuard <NA> <NA>
 SPEAKER Seinfeld_03x06 1 573.21 1.25 <NA> <NA> Jerry <NA> <NA>
-SPEAKER Seinfeld_03x06 1 575.14 2.27 <NA> <NA> Security Guard <NA> <NA>
-SPEAKER Seinfeld_03x06 1 577.47 1.06 <NA> <NA> Security Guard <NA> <NA>
+SPEAKER Seinfeld_03x06 1 575.14 2.27 <NA> <NA> SecurityGuard <NA> <NA>
+SPEAKER Seinfeld_03x06 1 577.47 1.06 <NA> <NA> SecurityGuard <NA> <NA>
 SPEAKER Seinfeld_03x06 1 578.81 1.83 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 580.72 1.15 <NA> <NA> Jerry <NA> <NA>
-SPEAKER Seinfeld_03x06 1 582.25 0.46 <NA> <NA> Security Guard <NA> <NA>
+SPEAKER Seinfeld_03x06 1 582.25 0.46 <NA> <NA> SecurityGuard <NA> <NA>
 SPEAKER Seinfeld_03x06 1 583.31 2.91 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 586.32 0.48 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 588.95 1.72 <NA> <NA> Jerry <NA> <NA>
@@ -304,7 +304,7 @@ SPEAKER Seinfeld_03x06 1 674.80 2.77 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 678.93 0.91 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 680.28 2.01 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 682.35 0.38 <NA> <NA> Jerry <NA> <NA>
-SPEAKER Seinfeld_03x06 1 683.67 0.76 <NA> <NA> Security Guard <NA> <NA>
+SPEAKER Seinfeld_03x06 1 683.67 0.76 <NA> <NA> SecurityGuard <NA> <NA>
 SPEAKER Seinfeld_03x06 1 685.01 0.41 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 685.75 0.51 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 686.26 2.45 <NA> <NA> Jerry <NA> <NA>
@@ -320,15 +320,15 @@ SPEAKER Seinfeld_03x06 1 706.31 1.02 <NA> <NA> Elaine <NA> <NA>
 SPEAKER Seinfeld_03x06 1 707.37 1.51 <NA> <NA> Elaine <NA> <NA>
 SPEAKER Seinfeld_03x06 1 709.38 0.85 <NA> <NA> Elaine <NA> <NA>
 SPEAKER Seinfeld_03x06 1 710.29 0.86 <NA> <NA> Elaine <NA> <NA>
-SPEAKER Seinfeld_03x06 1 711.53 0.48 <NA> <NA> Man #2 <NA> <NA>
+SPEAKER Seinfeld_03x06 1 711.53 0.48 <NA> <NA> Man#2 <NA> <NA>
 SPEAKER Seinfeld_03x06 1 712.82 1.08 <NA> <NA> Elaine <NA> <NA>
-SPEAKER Seinfeld_03x06 1 714.36 0.36 <NA> <NA> Man #2 <NA> <NA>
+SPEAKER Seinfeld_03x06 1 714.36 0.36 <NA> <NA> Man#2 <NA> <NA>
 SPEAKER Seinfeld_03x06 1 715.89 2.06 <NA> <NA> Elaine <NA> <NA>
-SPEAKER Seinfeld_03x06 1 718.77 0.37 <NA> <NA> Man #2 <NA> <NA>
+SPEAKER Seinfeld_03x06 1 718.77 0.37 <NA> <NA> Man#2 <NA> <NA>
 SPEAKER Seinfeld_03x06 1 720.16 1.25 <NA> <NA> Elaine <NA> <NA>
-SPEAKER Seinfeld_03x06 1 722.85 0.36 <NA> <NA> Man #2 <NA> <NA>
+SPEAKER Seinfeld_03x06 1 722.85 0.36 <NA> <NA> Man#2 <NA> <NA>
 SPEAKER Seinfeld_03x06 1 725.11 2.73 <NA> <NA> Elaine <NA> <NA>
-SPEAKER Seinfeld_03x06 1 728.44 1.17 <NA> <NA> Man #2 <NA> <NA>
+SPEAKER Seinfeld_03x06 1 728.44 1.17 <NA> <NA> Man#2 <NA> <NA>
 SPEAKER Seinfeld_03x06 1 737.35 1.38 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 739.71 1.87 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 742.86 4.77 <NA> <NA> Jerry <NA> <NA>
@@ -367,8 +367,8 @@ SPEAKER Seinfeld_03x06 1 846.61 0.98 <NA> <NA> George <NA> <NA>
 SPEAKER Seinfeld_03x06 1 848.57 0.68 <NA> <NA> George <NA> <NA>
 SPEAKER Seinfeld_03x06 1 849.55 0.33 <NA> <NA> George <NA> <NA>
 SPEAKER Seinfeld_03x06 1 850.65 1.29 <NA> <NA> George <NA> <NA>
-SPEAKER Seinfeld_03x06 1 852.46 2.07 <NA> <NA> Security Guard <NA> <NA>
-SPEAKER Seinfeld_03x06 1 857.92 2.17 <NA> <NA> Security Guard <NA> <NA>
+SPEAKER Seinfeld_03x06 1 852.46 2.07 <NA> <NA> SecurityGuard <NA> <NA>
+SPEAKER Seinfeld_03x06 1 857.92 2.17 <NA> <NA> SecurityGuard <NA> <NA>
 SPEAKER Seinfeld_03x06 1 860.91 1.16 <NA> <NA> George <NA> <NA>
 SPEAKER Seinfeld_03x06 1 864.49 1.67 <NA> <NA> Kramer <NA> <NA>
 SPEAKER Seinfeld_03x06 1 867.59 2.69 <NA> <NA> Kramer <NA> <NA>
@@ -421,11 +421,11 @@ SPEAKER Seinfeld_03x06 1 978.51 1.31 <NA> <NA> Jerry <NA> <NA>
 SPEAKER Seinfeld_03x06 1 982.77 2.31 <NA> <NA> Elaine <NA> <NA>
 SPEAKER Seinfeld_03x06 1 985.64 3.07 <NA> <NA> Elaine <NA> <NA>
 SPEAKER Seinfeld_03x06 1 989.13 1.21 <NA> <NA> Elaine <NA> <NA>
-SPEAKER Seinfeld_03x06 1 990.52 0.91 <NA> <NA> Man #3 <NA> <NA>
+SPEAKER Seinfeld_03x06 1 990.52 0.91 <NA> <NA> Man#3 <NA> <NA>
 SPEAKER Seinfeld_03x06 1 991.47 1.73 <NA> <NA> Elaine <NA> <NA>
 SPEAKER Seinfeld_03x06 1 993.32 2.36 <NA> <NA> Elaine <NA> <NA>
 SPEAKER Seinfeld_03x06 1 996.06 0.42 <NA> <NA> Elaine <NA> <NA>
-SPEAKER Seinfeld_03x06 1 997.39 0.30 <NA> <NA> Man #3 <NA> <NA>
+SPEAKER Seinfeld_03x06 1 997.39 0.30 <NA> <NA> Man#3 <NA> <NA>
 SPEAKER Seinfeld_03x06 1 999.35 0.70 <NA> <NA> Elaine <NA> <NA>
 SPEAKER Seinfeld_03x06 1 1001.08 1.59 <NA> <NA> Elaine <NA> <NA>
 SPEAKER Seinfeld_03x06 1 1002.89 3.71 <NA> <NA> Elaine <NA> <NA>
