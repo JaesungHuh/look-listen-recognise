@@ -1,15 +1,15 @@
 Carla,Judy Reyes
 Chet,Jason Baumgard
-Dr. Cox,John C. McGinley
-Dr. Kelso,Ken Jenkins
+Dr.Cox,John C. McGinley
+Dr.Kelso,Ken Jenkins
 Elliot,Sarah Chalke
 J.D.,Zach Braff
 Janitor,Neil Flynn
 Jordan,Christa Miller
-Mr. Zerbo,Scott Peacock
-Nurse Roberts,Aloma Wright
-Car Driver,Bob McClurg
-Singer,"unknown"
+Mr.Zerbo,Scott Peacock
+NurseRoberts,Aloma Wright
+CarDriver,Bob McClurg
+Singer,unknown
 Todd,Robert Maschio
 Troubadour,Colin Hay
 Turk,Donald Faison

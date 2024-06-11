@@ -4,7 +4,7 @@ Clarice,Constance Towers
 Daphne,Jane Leeves
 Frasier,Kelsey Grammer
 Gil,Edward Hibbert
-Man #1,David Sederholm
+Man#1,David Sederholm
 Martin,John Mahoney
 Niles,David Hyde Pierce
 Roz,Peri Gilpin

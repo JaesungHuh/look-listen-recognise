@@ -1,19 +1,19 @@
-Dr. Rose,Richard Cansino
+Dr.Rose,Richard Cansino
 Carla,Judy Reyes
 Crispin,George Miserlis
-Dr. Cox,John C. McGinley
-Dr. Kelso,Ken Jenkins
-ER Doctor,Marcus Ashley
+Dr.Cox,John C. McGinley
+Dr.Kelso,Ken Jenkins
+ERDoctor,Marcus Ashley
 Elliot,Sarah Chalke
 J.D.,Zach Braff
 Janitor,Neil Flynn
 Jordan,Christa Miller
-Mr. Freed,"unknown"
-Nurse #1,Bonita Friedericy
-Nurse #2,"unknown"
-Bespectacled Nurse,
+Mr.Freed,unknown
+Nurse#1,Bonita Friedericy
+Nurse#2,unknown
+BespectacledNurse,
 Randall,Paul F. Perry
 Roy,Philip McNiven
-Singer,"unknown"
+Singer,unknown
 Ted,Sam Lloyd
 Turk,Donald Faison
