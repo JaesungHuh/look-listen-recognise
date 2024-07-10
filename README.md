@@ -9,7 +9,8 @@ Bruno Korbar*, Jaesung Huh*, Andrew Zisserman
 (* denotes equal contribution.)
 
 ## Update
-- W
+- This is version 1.1. We noticed there are some annotation errors in the initial version we used in the paper. Please use the current annotation for appropriate evaluation.
+
 ## Dataset
 ### Castlist
 - We offer a cast list for each episode, featuring character names alongside the corresponding actor or actress's name. If an actor or actress's name is not available, it will be listed as 'unknown'.
