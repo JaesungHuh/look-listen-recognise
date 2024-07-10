@@ -22,8 +22,7 @@ Bruno Korbar*, Jaesung Huh*, Andrew Zisserman
 - To evaluate on speaker diarization performance, we also convert the csv files to [rttm](https://github.com/nryant/dscore?tab=readme-ov-file#rttm) format.
 
 ### Audio and video files
-- We also provide the audio and video files. Please visit [this](https://www.robots.ox.ac.uk/~vgg/research/look-listen-recognise/data/audio.zip) link for audios and [this](https://www.robots.ox.ac.uk/~vgg/research/look-listen-recognise/data/video.zip) for videos.
-
+- Please contact jaesung at robots dot ac dot uk.
 
 ## Reference
 ```
