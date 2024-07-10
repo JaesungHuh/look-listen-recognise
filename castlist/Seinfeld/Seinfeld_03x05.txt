@@ -1,0 +1,11 @@
+Bookman,Philip Baker Hall
+Elaine,Julia Louis-Dreyfus
+George,Jason Alexander
+Heyman,Biff Yeager
+Jerry,Jerry Seinfeld
+Kramer,Michael Richards
+Lippman,Harris Shore
+Marion,Ashley Gardner
+Reader,Neal Lerner
+Secretary,Marie Barrientos
+Sherry,Cynthia Szigeti

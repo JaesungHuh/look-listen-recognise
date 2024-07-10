@@ -1,0 +1,7 @@
+Daphne,Jane Leeves
+Duke,John LaMotta
+Frasier,Kelsey Grammer
+Joe,Jack Wallace
+Martin,John Mahoney
+Niles,David Hyde Pierce
+Roz,Peri Gilpin

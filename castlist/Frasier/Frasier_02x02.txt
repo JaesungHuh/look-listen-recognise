@@ -1,0 +1,8 @@
+Daphne,Jane Leeves
+Dorathea,Jo de Winter
+Frasier,Kelsey Grammer
+Martin,John Mahoney
+Niles,David Hyde Pierce
+Rita,Lily Tomlin
+Roz,Peri Gilpin
+Thomas,Joel Anderson
